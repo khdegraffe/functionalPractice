@@ -1,1 +1,2 @@
 # functionalPractice
+# Mini-JS-Projects
